@@ -1,0 +1,7 @@
+C:\Users\ahmed\Desktop\Projekti\C#\SimpleAgeGame\SimpleAgeGame\SimpleAgeGame\bin\Debug\SimpleAgeGame.exe.config
+C:\Users\ahmed\Desktop\Projekti\C#\SimpleAgeGame\SimpleAgeGame\SimpleAgeGame\bin\Debug\SimpleAgeGame.exe
+C:\Users\ahmed\Desktop\Projekti\C#\SimpleAgeGame\SimpleAgeGame\SimpleAgeGame\bin\Debug\SimpleAgeGame.pdb
+C:\Users\ahmed\Desktop\Projekti\C#\SimpleAgeGame\SimpleAgeGame\SimpleAgeGame\obj\Debug\SimpleAgeGame.csprojAssemblyReference.cache
+C:\Users\ahmed\Desktop\Projekti\C#\SimpleAgeGame\SimpleAgeGame\SimpleAgeGame\obj\Debug\SimpleAgeGame.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Projekti\C#\SimpleAgeGame\SimpleAgeGame\SimpleAgeGame\obj\Debug\SimpleAgeGame.exe
+C:\Users\ahmed\Desktop\Projekti\C#\SimpleAgeGame\SimpleAgeGame\SimpleAgeGame\obj\Debug\SimpleAgeGame.pdb
